@@ -1,6 +1,6 @@
 This repo contains a few of my explorations in fixed-income:
 
-**The notebooks are best rendered in the browser using nbviewer at the links below rather than GitHub:**
+**The docs are best rendered in the browser using nbviewer at the links below rather than GitHub:**
 
 * A [jupyter notebook](https://nbviewer.jupyter.org/github/t-cousins/Fixed-Income/blob/master/Building_Spot_Curve.ipynb) constructing a continuous spot yield curve from observable market prices
 
